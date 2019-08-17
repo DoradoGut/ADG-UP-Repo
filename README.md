@@ -1,3 +1,0 @@
-# RRMain
-
-Private Main repository.
